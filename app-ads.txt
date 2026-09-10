@@ -1,11 +1,3 @@
-# ==============================================================================
-# app-ads.txt for Pocket Girl
-# Developer: pocketgirlapp
-# Official Google AdMob Publisher ID: pub-7533837131088403
-# ==============================================================================
-
-# Google AdMob
-google.com, pub-7533837131088403, DIRECT, f08c47fec0942fa0
 
 # Tappx
 tappx.com, r248156f0, RESELLER
